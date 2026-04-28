@@ -5,7 +5,7 @@ export default function Experience() {
   const experiences = [
     {
       title: "Design Jersey",
-      desc: "Saya telah mendesainbeberapa baju jersey E-Sport profesional untuk beberapa tim terkemuka, selain itu saya juga telah mendesain produk Jersey Futsal Custom sesuai dengan request klien.",
+      desc: "Saya telah mendesain beberapa baju jersey E-Sport profesional untuk beberapa tim terkemuka, selain itu saya juga telah mendesain produk Jersey Futsal Custom sesuai dengan request klien.",
       img: "/jersey_design_1777217104033.png"
     },
     {
